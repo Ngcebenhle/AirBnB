@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "id": "0",
+      "name": "Tenent",
+      "email": "works@w.com",
+      "phone": "+1 00 555-627"
+    },
+    {
+      "id": "1",
+      "name": "Tenent",
+      "email": "works@w.com",
+      "phone": "+1 00 555-627"
+    },
+    {
+      "id": "2",
+      "name": "TP",
+      "email": "NEWDAY!!!!@8.com",
+      "phone": "+12 0 555-627"
+    },
+    {
+      "id": "1",
+      "name": "Tenent",
+      "email": "works@w.com"
+    },
+    {
+      "id": "7",
+      "email": "me@lookatthat.com",
+      "password": "12345678910"
+    },
+    {
+      "id": "e319",
+      "email": "meeee@lookatthat.com",
+      "password": "12345678"
+    }
+  ],
+  "booking": [
+    {
+      "listingId": 1,
+      "startDate": "2025-07-14",
+      "endDate": "2028-08-13",
+      "UserId": "1",
+      "id": "375b"
+    }
+  ],
+  "listing": [
+    {
+      "image": "https://image-prod.iol.co.za/16x9/800/Hidden-Haven-Villa-in-Cape-Town-Western-Cape-is-an-Airbnb-that-offers-breathtaking-views-over-Hout-Bay-beach?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/e749a54f-0940-53ee-8e31-3de4395e4fde&operation=CROP&offset=0x108&resize=2048x1152",
+      "id": "20",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "peak street",
+      "city": "Tom Woo",
+      "street": "back",
+      "price": "$3000 p/n",
+      "sq_ft": 4.2,
+      "email": "tobe@t.com",
+      "UserId": 2,
+      "tittle": "Home in Las Vegas",
+      "description": "IsmaSol Luxury"
+    },
+    {
+      "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/6976/images/0e6a64-b732-f51-c866-32d17c43b_5_Short_Term_Rental_Design_Tips_from_Top-Rated_Airbnb_Hosts.jpg",
+      "id": "20",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "peak street",
+      "city": "Tom Woo",
+      "street": "back",
+      "price": "$1000 p/n",
+      "sq_ft": 4.2,
+      "email": "tobe@t.com",
+      "UserId": 2,
+      "tittle": "Apartment in Long Beach",
+      "description": "Artistic 1br Loft w/Sauna 2 min walk 2 the..."
+    },
+    {
+      "image": "https://media.cntraveler.com/photos/6295ab5e951217bbf4812101/4:3/w_1067,h_800,c_limit/Airbnb%2043240473%20-1.jpeg",
+      "id": "20",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "peak street",
+      "city": "Tom Woo",
+      "street": "back",
+      "price": "$8000 p/n",
+      "sq_ft": 4.2,
+      "email": "tobe@t.com",
+      "UserId": 2,
+      "tittle": "Cabin in Center Hill",
+      "description": "Woodsy cabin close to major theme parks"
+    },
+    {
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-565593444301020181/original/4fedc040-1f7d-4b88-8d25-8ab7272827ce.jpeg?im_w=720",
+      "id": "20",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "peak street",
+      "city": "Tom Woo",
+      "street": "back",
+      "price": "$4000 p/m",
+      "sq_ft": 4.2,
+      "email": "tobe@t.com",
+      "UserId": 2,
+      "tittle": "Room in Lancaster",
+      "description": "Stay with Brenda.Nurse"
+    },
+    {
+      "image": "https://hospitality-on.com/sites/default/files/2019-07/airbnb_-_te_kahu_-_wanaka_new_zealand.jpg",
+      "id": "20",
+      "bath_num": 3,
+      "bed_num": 4,
+      "zip": 23456,
+      "address": "peak street",
+      "city": "Tom Woo",
+      "street": "back",
+      "price": "$2000 p/n",
+      "sq_ft": 4.2,
+      "email": "tobe@t.com",
+      "UserId": 1,
+      "tittle": "Townhouse in Tucson",
+      "description": "Serendipity Getaway"
+    }
+  ]
+}
