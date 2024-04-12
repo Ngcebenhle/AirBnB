@@ -24,7 +24,7 @@ export const login = (email, password) => async (dispatch) => {
     //   config
     // );
 
-    const { data } = axios.get("http://localhost:5000/users").then((result) => {
+    const { data } = axios.get("https://ns-air-bnb-bckend.onrender.com/users").then((result) => {
       result.data.map((user) => {
         if (user.email === email && user.password === password) {
           alert("Login successfuly");
